@@ -1,0 +1,15 @@
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\bin\Debug\net8.0\Projeto-Hospedagem.exe
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\bin\Debug\net8.0\Projeto-Hospedagem.deps.json
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\bin\Debug\net8.0\Projeto-Hospedagem.runtimeconfig.json
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\bin\Debug\net8.0\Projeto-Hospedagem.dll
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\bin\Debug\net8.0\Projeto-Hospedagem.pdb
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.AssemblyInfoInputs.cache
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.AssemblyInfo.cs
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.sourcelink.json
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.dll
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\refint\Projeto-Hospedagem.dll
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.pdb
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\Projeto-Hospedagem.genruntimeconfig.cache
+C:\Users\carlo\Bootcamp\Projeto-Hospedagem\obj\Debug\net8.0\ref\Projeto-Hospedagem.dll
